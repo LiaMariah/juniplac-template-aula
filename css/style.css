@@ -25,14 +25,13 @@ section {
     margin: 20px auto;
     width: 90%;
     border-radius: 5%;
-    box-shadow: 0px 4px 8px rgb(rgb(0, 0, 0, 0.2);
+    box-shadow: 0px 4px 8px rgb(rgb(0, 0, 0, 0.2));
 }
 
 img {
     width: 100%;
     border-radius: 10px;
-    max-width: ;
-    box-shadow: 0px 4px 8px rgb(rgb(0, 0, 0, 0.2);
+    box-shadow: 0px 4px 8px rgb(rgb(0, 0, 0, 0.2));
 }
 
 h2 {
@@ -54,6 +53,7 @@ footer a {
     color: #ffcc00;
     text-decoration: none;
 }
+
 button {
     background: #ff0877;
     color: #fff;
@@ -64,7 +64,7 @@ button {
     font-size: 18px;
     transition: 0.3s;
 }
-botton:hover {
+button:hover {
     background: #a3110f;
     transform: scale(1.1); /*animação do botão*/
 }
